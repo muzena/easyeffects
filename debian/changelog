@@ -1,3 +1,9 @@
+easyeffects (6.1.5) unstable; urgency=emergency
+
+  * Version 6.1.5
+
+ -- Goran Vidovic (gogo) <trebelnik2@gmail.com>  Tue, 7 Dec 2021 17:50:58 +0100
+ 
 pulseeffects (4.8.2-1) unstable; urgency=low
 
   * Version 4.8.2 upstream (autobuild)
